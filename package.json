@@ -1,5 +1,5 @@
 {
-  "name": "discord-handler",
+  "name": "@paulpr_/discord-handler",
   "version": "0.0.1",
   "description": "Simple dynamic DiscordJS interaction handler",
   "main": "index.js",
