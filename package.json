@@ -1,0 +1,23 @@
+{
+  "name": "discord-handler",
+  "version": "0.0.1",
+  "description": "Simple dynamic DiscordJS interaction handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulPR-44/discord-handler.git"
+  },
+  "keywords": [
+    "discord",
+    "handler"
+  ],
+  "author": "PaulPR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulPR-44/discord-handler/issues"
+  },
+  "homepage": "https://github.com/PaulPR-44/discord-handler#readme"
+}
